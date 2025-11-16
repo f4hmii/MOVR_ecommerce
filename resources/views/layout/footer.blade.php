@@ -38,18 +38,6 @@
                 d="M13.5 21v-7h3l.5-3h-3v-2c0-1 0-1.5 1.5-1.5h1.5V6.5H14c-2.5 0-3.5 1-3.5 3.5v2.5H8v3h3v7h2.5z" />
             </svg>
           </a>
-          <a href="#" aria-label="TikTok" class="hover:text-green-600 transition">
-            <svg fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6">
-              <path
-                d="M12 2v5.2c3.2 0 5.5 2.2 6 5.3h-2.3v5.3a5.5 5.5 0 01-6.8-5.4 5.4 5.4 0 015.3 3.1H12L8 16V7h4V2z" />
-            </svg>
-          </a>
-          <a href="#" aria-label="YouTube" class="hover:text-green-600 transition">
-            <svg fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6">
-              <path
-                d="M10 15l5.19-3L10 9v6zm12-3c0-1.1-1-2-2.25-2.1l-15.5.01A2.2 2.2 0 002 12c0 1.1 1 2 2.25 2.1l15.5-.01c1.14 0 2.25-.9 2.25-2.1z" />
-            </svg>
-          </a>
           <a href="#" aria-label="Twitter" class="hover:text-green-600 transition">
             <svg fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6">
               <path
